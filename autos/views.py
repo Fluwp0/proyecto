@@ -1,8 +1,8 @@
-from django.shortcuts import render, get_object_or_404, redirect
+from django.shortcuts import render, get_object_or_404
 from .models import Auto
-from django.http import HttpResponse
-from django.views.decorators.http import require_POST
-from django.http import JsonResponse
+
+
+
 
 
 
